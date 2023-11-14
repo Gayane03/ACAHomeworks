@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\bin\Debug\net6.0\CustomStringBuilder.exe
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\bin\Debug\net6.0\CustomStringBuilder.deps.json
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\bin\Debug\net6.0\CustomStringBuilder.runtimeconfig.json
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\bin\Debug\net6.0\CustomStringBuilder.dll
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\bin\Debug\net6.0\ref\CustomStringBuilder.dll
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\bin\Debug\net6.0\CustomStringBuilder.pdb
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\obj\Debug\net6.0\CustomStringBuilder.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\obj\Debug\net6.0\CustomStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\obj\Debug\net6.0\CustomStringBuilder.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\obj\Debug\net6.0\CustomStringBuilder.AssemblyInfo.cs
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\obj\Debug\net6.0\CustomStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\obj\Debug\net6.0\CustomStringBuilder.dll
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\obj\Debug\net6.0\ref\CustomStringBuilder.dll
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\obj\Debug\net6.0\CustomStringBuilder.pdb
+C:\Users\Asus\source\repos\CustomStringBuilder\CustomStringBuilder\obj\Debug\net6.0\CustomStringBuilder.genruntimeconfig.cache
