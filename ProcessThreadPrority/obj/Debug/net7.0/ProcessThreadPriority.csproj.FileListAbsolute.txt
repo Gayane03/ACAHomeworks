@@ -1,0 +1,14 @@
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\bin\Debug\net7.0\ProcessThreadPriority.exe
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\bin\Debug\net7.0\ProcessThreadPriority.deps.json
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\bin\Debug\net7.0\ProcessThreadPriority.runtimeconfig.json
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\bin\Debug\net7.0\ProcessThreadPriority.dll
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\bin\Debug\net7.0\ProcessThreadPriority.pdb
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\obj\Debug\net7.0\ProcessThreadPriority.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\obj\Debug\net7.0\ProcessThreadPriority.AssemblyInfoInputs.cache
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\obj\Debug\net7.0\ProcessThreadPriority.AssemblyInfo.cs
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\obj\Debug\net7.0\ProcessThreadPriority.csproj.CoreCompileInputs.cache
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\obj\Debug\net7.0\ProcessThreadPriority.dll
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\obj\Debug\net7.0\refint\ProcessThreadPriority.dll
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\obj\Debug\net7.0\ProcessThreadPriority.pdb
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\obj\Debug\net7.0\ProcessThreadPriority.genruntimeconfig.cache
+C:\MyGit\ProgrammingTechnologies\ProcessThreadPrority\ProcessThreadPrority\obj\Debug\net7.0\ref\ProcessThreadPriority.dll
